@@ -6,5 +6,5 @@ hello! this is something little i made for myself for use in various unix-likes.
 
 # prerequisites
 
-add a .diary directory to your home
-(optional) set this script to run everyday at 7pm-ish instead of running manually
+1. add a .diary directory to your home
+2. (optional) set this script to run everyday at 7pm-ish instead of running manually
